@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch-graphql",
+  "name": "dh-elasticsearch-graphql",
   "version": "3.0.2",
   "description": "Schema generator and query builder for elasticsearch",
   "main": "index.js",
